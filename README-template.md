@@ -5,9 +5,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screensho![Screenshot 2024-02-19 at 21-04-08 Frontend Mentor QR code component](https://github.com/Sooma8/QR-code-component/assets/91131370/383bcdef-5d7c-483f-ad23-6f2be44c67db)
-t)
-  - 
+  - [Screenshot]
+   ![Screenshot 2024-02-19 at 21-04-08 Frontend Mentor QR code component](https://github.com/Sooma8/QR-code-component/assets/91131370/383bcdef-5d7c-483f-ad23-6f2be44c67db)
+  -
   - [Links](#links)
   - - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Sooma8/QR-code-component/tree/main))
   - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://qrcode-frontendmentort-solution.netlify.app/))
