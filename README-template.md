@@ -6,9 +6,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Built with](#built-with)![Screenshot 2024-02-19 at 21-04-08 Frontend Mentor QR code component](https://github.com/Sooma8/QR-code-component/assets/91131370/3ebf71a2-f5fc-4806-8a4e-321e07aecf5b)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - 
+
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
